@@ -1,4 +1,4 @@
 Our Heroes
 ==========
-* Sietse
-* Havinga
+* Ryan
+* Reinier
