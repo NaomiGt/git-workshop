@@ -6,4 +6,4 @@ Our Heroes
 * Gordon
 * Naomi
 * Sietse
-* Sabitahghjh
+* Sabita
